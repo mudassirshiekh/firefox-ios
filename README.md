@@ -33,6 +33,7 @@ This is a mono repository containing both Firefox and Focus iOS projects. For th
 - [Focus iOS](https://github.com/mozilla-mobile/firefox-ios/blob/main/focus-ios/README.md)
 
 ## Getting involved
+## By Mudassir Alam
 
 We encourage you to participate in those open source projects. We love Pull Requests, Issue Reports, Feature Requests or any kind of positive contribution. Please read the [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/) and our [Contributing guidelines](https://github.com/mozilla-mobile/firefox-ios/blob/main/CONTRIBUTING.md) first. 
 
